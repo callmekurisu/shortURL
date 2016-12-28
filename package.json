@@ -1,0 +1,28 @@
+{
+  "name": "header",
+  "version": "1.0.0",
+  "description": "fcc api project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https//:github.com/callmekurisu/shortURL"
+  },
+  "author": "callmekurisu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "csurf": "^1.9.0",
+    "express": "^4.14.0",
+    "request": "~2.79.0",
+    "url": "~0.11.0",
+    "moment": "~2.17.1",
+    "ip": "~1.1.4",
+    "os": "~0.1.1",
+    "accepts": "~1.3.3",
+    "navigator": "~1.0.1"
+  }
+}
